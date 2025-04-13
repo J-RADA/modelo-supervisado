@@ -42,4 +42,4 @@ mejor es la predicción.
 Conclusión
 Creamos un modelo de aprendizaje supervisado que predice la cantidad de pasajeros en el
 transporte masivo. Este tipo de modelos pueden ayudar a mejorar el servicio y la toma de
-decisiones. ¡Gracias por ver!
+decisiones.

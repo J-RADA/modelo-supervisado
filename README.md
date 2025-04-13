@@ -1,11 +1,14 @@
 Modelo de Aprendizaje Supervisado en Python 
+
 Estudiantes: 
 Jhon Fredy Rada 
+
 Nicolas Fabian Caceres
-Introducción
+
 Modelo de aprendizaje automático supervisado usando Python. Este modelo predice la cantidad de pasajeros que puede tener una ruta de transporte masivo, 
 basándose en variables como la hora, el clima, el
 tráfico, entre otras. Todo esto es simulado, pero muestra cómo se puede usar la inteligencia artificial para mejorar el transporte público.
+
 Paso 1: Importar las librerías
 Importamos las librerías necesarias para manipular datos y construir el modelo. Usamos pandas,
 numpy y sklearn, que es una librería de machine learning.
